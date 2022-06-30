@@ -13,9 +13,9 @@ public class Main {
 
         // Print out the following string: "Hello, I am <firstName> <lastName>, and I am <age> years old"
 
-      firstName = "Geraldo";
-      lastName = "Nortono";
-      age = 14;
+      // firstName = "Geraldo";
+      // lastName = "Nortono";
+      // age = 14;
       
       String funkyTown = "Hello, I am " + firstName + " " + lastName + ", and I am " + age + " years old";
         System.out.println(funkyTown);
